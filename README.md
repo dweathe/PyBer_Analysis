@@ -3,7 +3,7 @@ The purpose of the new analysis is to perform a statistical analysis, create vis
 
 ## Results: describe the differences in ride-sharing data among the different city types.
 The data analysis began with a merged data set that showed 2375 ridesharing trips, the name of the city, date, cost of the fare, rider id, how many drivers the city had driving and the type of city:  rural, suburban and urban.
-[MergedDF](MergedDF.png)
+![MergedDF](MergedDF)
 
 From this data set, I then built a data frame to show the total fare amount for each date and time.  The display clearly shows that there are more rides shared on one day in suburban and urban city types.
 ![Sumofthefares_bycity_type](Sumofthefares_bycity_type.png)

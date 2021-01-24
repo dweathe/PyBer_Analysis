@@ -1,8 +1,8 @@
 # Overview of the analysis
 The purpose of the new analysis is to perform a statistical analysis, create visualizaations to tell a compelling story to PyBer, a ride share company.  They want all the information that a data scientist like myself can get, concerning how PyBer can provide ride share access and affordability for underserved communityies.  
 
-## Results: describe the differences in ride-sharing data among the different city types.
-The data analysis began with a merged data set that showed 2375 ridesharing trips, the name of the city, date, cost of the fare, rider id, how many drivers the city had driving and the type of city:  rural, suburban and urban.
+## Results: 
+My description of the differences in ride-sharing data among rural, suburban and urban cityies bigins with the data analysis of a merged data set that showed 2375 ridesharing trips.  Within this data set, the name of the city, date, cost of the fare, rider id, how many drivers the city had driving and the type of city, were counted and reviewed.
 
 ![MergedDF](MergedDF.png)
 
